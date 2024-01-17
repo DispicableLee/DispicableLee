@@ -7,6 +7,13 @@
 
 # Robert Lee
 
+### Bridging Artistry with Technology for Innovative Solutions
+Coming from an Arts background, many of my projects involve some level of aesthetic appeal, and it is with this in mind that you will find them to your liking.
+
+
+#
+
+
 Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
